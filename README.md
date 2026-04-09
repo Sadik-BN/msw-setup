@@ -9,4 +9,4 @@ Step-4: after finishing mso download run the command bellow in powershell(admin)
         <h3> irm https://get.activated.win | iex </h3> <br>
 Step-5: Select Activation method <h3> "Ohook - office" </h3> <br>
 Step-6: Select <h3> "Install ohook office activation"</h3> <br>
-Step-7: Wait for activation. After successfull activation close cmd/powershel. <br>
+Step-7: Wait for activation. After successfull activation close all cmd/powershel. <br>
